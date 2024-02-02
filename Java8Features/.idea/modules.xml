@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AdvancedJavaConcepts/AdvancedJavaConcepts.iml" filepath="$PROJECT_DIR$/../AdvancedJavaConcepts/AdvancedJavaConcepts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../EncapsulationAndEnum/EncapsulationAndEnum.iml" filepath="$PROJECT_DIR$/../EncapsulationAndEnum/EncapsulationAndEnum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java8Features.iml" filepath="$PROJECT_DIR$/Java8Features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Stack/StackAndQueue.iml" filepath="$PROJECT_DIR$/../Stack/StackAndQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Thread/Thread.iml" filepath="$PROJECT_DIR$/../Thread/Thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../exception/exception.iml" filepath="$PROJECT_DIR$/../exception/exception.iml" />
+    </modules>
+  </component>
+</project>
